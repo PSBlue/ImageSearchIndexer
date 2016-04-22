@@ -1,4 +1,5 @@
 using System;
+using Microsoft.Azure.Documents;
 
 public static void Run(TimerInfo myTimer, TraceWriter log)
 {
