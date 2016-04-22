@@ -1,1 +1,1 @@
-{"bindings":[{"schedule":"0 0 0/8 * * *","name":"myTimer","type":"timerTrigger","direction":"in"}],"disabled":false}
+{"bindings":[{"schedule":"0 * * * * *","name":"myTimer","type":"timerTrigger","direction":"in"}],"disabled":false}
